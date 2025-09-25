@@ -1,0 +1,12 @@
+Devops=development+operations
+--code is automatically tested and  deployed8
+
+life cycle
+--plan
+--develop
+--build
+--test 
+--release
+--deployment
+--operate
+--monitor 
