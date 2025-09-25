@@ -1,0 +1,4 @@
+Naga Sumukha
+
+GitHub is a platform for hosting and managing code using Git version control, enabling collaboration among developers.
+It allows you to track changes, contribute to projects, and build software together
